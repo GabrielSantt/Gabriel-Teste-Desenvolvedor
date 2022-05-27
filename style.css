@@ -18,7 +18,7 @@ section{
     background-color: rgba(201, 199, 199, 0.068);
     box-shadow: 0px 0px 12px rgba(124, 124, 124, 0.103);
 }
-#valor{
+#valor,.inptab{
     margin: 10px;
 }
 h2{
