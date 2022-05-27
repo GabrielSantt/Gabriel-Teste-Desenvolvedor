@@ -5,7 +5,7 @@ body{
 section{
     padding: 5px;
 }
-#orgnum{
+#orgnum, #tab{
     background-color: rgba(201, 199, 199, 0.137);
     border-radius: 15px;
     padding: 16px;
@@ -18,7 +18,7 @@ section{
     background-color: rgba(201, 199, 199, 0.068);
     box-shadow: 0px 0px 12px rgba(124, 124, 124, 0.103);
 }
-#valor,.inptab{
+#valor,.inptab, .bt{
     margin: 10px;
 }
 h2{
